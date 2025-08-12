@@ -1,5 +1,5 @@
 # music-transpose
-Turns audio into MIDI
+Turns audio into MIDI.
 The audio used is an excerpt from Declan McKenna's song "Brazil."
 
 ## First Draft
